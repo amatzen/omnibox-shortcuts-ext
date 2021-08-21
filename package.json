@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/amatzen/omnibox-shortcuts-ext/issues"
   },
-  "homepage": "https://github.com/amatzen/omnibox-shortcuts-ext#readme"
+  "homepage": "https://github.com/amatzen/omnibox-shortcuts-ext#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.5",
+    "typescript": "^4.3.5",
+    "webpack": "^5.51.1"
+  }
 }
